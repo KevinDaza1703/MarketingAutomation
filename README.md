@@ -36,6 +36,7 @@ Tools I command to execute the strategy:
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO_Strategy-8DA2FB?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
 **CRM & Operations**
 ![Zoho](https://img.shields.io/badge/Zoho_One-202941?style=for-the-badge&logo=zoho&logoColor=white)
