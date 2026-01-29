@@ -90,19 +90,5 @@ graph TD;
     
     G --> H[$$$ REVENUE GENERATED];
     
-    style H fill:#85bb65,stroke:#333,stroke-width:
+    style H fill:#85bb65,stroke:#333,stroke-width:2px,color:white
 
-```mermaid
-graph TD;
-    A[Lead Fills Form] -->|Webhook| B(n8n Workflow Triggers);
-    B --> C{Is Lead Qualified?};
-    C -- Yes --> D[Create Deal in HubSpot];
-    D --> E[Send Personalized WhatsApp via AI Agent];
-    C -- No --> F[Add to Nurture Email Sequence];
-    E --> G[Notify Sales Team on Slack];
-    F --> H[Monitor Engagement (GA4)];
-
-Let's Connect
-Looking for a Marketing Director who understands the full picture?
-
-LinkedIn: https://www.linkedin.com/in/kevindaza17/
