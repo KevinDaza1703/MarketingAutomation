@@ -1,4 +1,4 @@
-# 🚀 Digital Marketing Strategist | Growth & Tech-Ops
+# Digital Marketing Strategist | Growth & Tech-Ops
 
 ### Marketing First. Technology Powered.
 **By Kevin Daza** | *Digital Marketing Director & Growth Architect*
